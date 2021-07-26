@@ -10,7 +10,7 @@ public class Quiz01 {
 		c=(char)b;
 		s=(short)c;
 		c=(char)s;
-		f=(float)5.11;
+		f=5.11f;
 		System.out.println(s + c + f +b);
 	}
 }
